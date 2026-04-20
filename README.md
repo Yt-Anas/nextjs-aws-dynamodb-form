@@ -54,9 +54,9 @@ DYNAMODB_TABLE_NAME=your_table_name
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Yt-Anas/nextjs-aws-dynamodb-form.git
 
-cd your-repo-name
+cd nextjs-aws-dynamodb-form
 
 
 ### 2. Install dependencies
