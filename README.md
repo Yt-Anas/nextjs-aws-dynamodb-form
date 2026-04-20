@@ -13,7 +13,7 @@ This project demonstrates how to:
 ## 🛠️ Tech Stack
 
 - Frontend: Next.js
-- Backend: Next.js API Routes / AWS Lambda (if used)
+- Backend: Next.js API Routes / AWS Lambda
 - Database: AWS DynamoDB
 - Cloud Services: AWS (IAM, DynamoDB)
 
@@ -91,16 +91,6 @@ Visit: http://localhost:3000
 4. Data is stored in DynamoDB
 5. Success response is returned
 
-## 📸 Demo
-
-(Add screenshots or GIF here)
-
-## 🧠 Learnings
-
-- Working with AWS SDK in Next.js
-- Handling serverless API routes
-- Managing environment variables securely
-- Integrating frontend with cloud database
 
 ## ⚠️ Notes
 
